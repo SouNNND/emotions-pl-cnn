@@ -6,3 +6,4 @@
 !train.py
 !vgg11.py
 !FER_dataset.py
+!train-nb.ipynb
