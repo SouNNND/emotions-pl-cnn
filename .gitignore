@@ -1,0 +1,8 @@
+#all
+*
+
+#except
+!.gitignore
+!train.py
+!vgg11.py
+!FER_dataset.py
